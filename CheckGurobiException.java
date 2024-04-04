@@ -1,4 +1,4 @@
-import gurobi.GRBException; // 使用正确的包路径来导入 GRBException
+import com.gurobi.gurobi.GRBException; // 使用正确的包路径来导入 GRBException
 
 public class CheckGurobiException {
     public static void main(String[] args) {
